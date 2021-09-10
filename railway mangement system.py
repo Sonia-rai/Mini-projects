@@ -1,3 +1,5 @@
+# project made using mysql connectivity with python
+
 import mysql.connector
 import os
 import platform
