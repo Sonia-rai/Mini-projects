@@ -1,5 +1,5 @@
 #creating a fun game snake,water,gun
-# directions
+
 #import random.choice module
 #take user's input
 #generate computer output
