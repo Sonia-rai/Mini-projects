@@ -1,8 +1,4 @@
 #creating a fun game snake,water,gun
-<<<<<<< HEAD
-
-=======
->>>>>>> 3725db56314e67b13b98915a24451c772dd6eba7
 #import random.choice module
 #take user's input
 #generate computer output
