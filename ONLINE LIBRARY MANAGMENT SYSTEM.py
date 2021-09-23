@@ -92,3 +92,4 @@ if __name__ == "__main__":
 
             elif user_choice2 == "c":
                 continue
+# Issue: actually the lendDict file get re-instialized when program is re-runned!!
