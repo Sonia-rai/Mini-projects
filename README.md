@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sonia-rai
-- 👀 I’m interested in ---
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in web development,blog posts...
+- 🌱 I’m currently learning python,c++,Java,wordpress...
 
